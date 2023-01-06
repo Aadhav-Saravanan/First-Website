@@ -1,0 +1,51 @@
+button{
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border: none;
+  height: 40px;
+  width: 90px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 99;
+  margin: 15px;
+  padding: 6px;
+  border: 3px solid;
+  float: left;
+  position: relative;
+}
+
+h3{
+  font-family: monospace;
+  font-size: 2.5rem;
+  z-index: 1;
+  margin: 15px;
+  color: rgb(0, 0, 0);
+  font-style: bold;
+}
+
+html{
+  color: black;
+}
+
+p{
+  padding: 10px;
+  position: absolute;
+  top: 0px;
+  left: 1300px;
+}
+
+p2{
+  font-family: monospace;
+  font-size: 1rem;
+  position: absolute;
+  top: 27px;
+  left: 1250px;
+}
+
+.img-picture {
+  width: 800px;
+  border-radius: 15px;
+  padding-left: 100px;
+}
